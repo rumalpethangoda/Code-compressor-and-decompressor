@@ -1,13 +1,11 @@
-# code-compressor-and-decompressor
-Designing a code compressor to compress a given text file and then decompress it to achieve the original text.
-
 Code compressor and decompressor
 
 =======================================================
 
 ###### Problem intended to be solved
 
-Implement both code compression and decompression using C, C++ or Java.
+Designing a code compressor to compress a given text file and then decompress it to achieve the original text.
+
 Assume that the dictionary can have eight entries (index 3 bits) and the eight entries are selected based on
 frequency (the most frequent instruction should have index 000). If two entries have the same frequency,
 the priority should be given to the one that appears first in the original program order. The original
