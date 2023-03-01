@@ -7,7 +7,7 @@ Code compressor and decompressor
 
 ###### Problem intended to be solved
 
-implement both code compression and decompression using C, C++ or Java.
+Implement both code compression and decompression using C, C++ or Java.
 Assume that the dictionary can have eight entries (index 3 bits) and the eight entries are selected based on
 frequency (the most frequent instruction should have index 000). If two entries have the same frequency,
 the priority should be given to the one that appears first in the original program order. The original
